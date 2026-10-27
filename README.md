@@ -61,7 +61,7 @@
 ### 🧮 Scientific Calculator
 A web-based calculator built with HTML, CSS, and JavaScript.
 
-🔗 [Live Demo](https://subhajit998-cmd.github.io/Scientific-Calculator/) · [Source Code](https://github.com/subhajit998-cmd/Scientific-Calculator)
+🔗 [Live Demo]([https://subhajit998-cmd.github.io/Scientific-Calculator/) · [Source Code](https://github.com/subhajit998-cmd/Scientific-Calculator)
 
 ### 🖼️ My Image Gallery
 A web development project focused on displaying images in a gallery layout.
