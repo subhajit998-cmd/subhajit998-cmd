@@ -73,13 +73,16 @@ An AI-focused project exploring Android APK security.
 
 🔗 [View Repository](https://github.com/subhajit998-cmd/Sentinel-AI)
 
-### 🎵 MoodTune
-A music discovery project exploring music search and previews.
 
-### 👕 Style Hub
-A fashion e-commerce website concept focused on streetwear.
+### 🎵 MoodTune — In Progress
+- Developing a music discovery application with music search and preview features.
+- Exploring API integration and backend development.
+- 🛠️ Tech Stack: HTML, CSS, JavaScript, Node.js (planned/if applicable)
 
-> Add repository links for MoodTune and Style Hub once their repositories are ready to share.
+### 👕 Style Hub — In Progress
+- Building a fashion e-commerce website focused on anime and football streetwear.
+- Working on product presentation, responsive UI, and shopping interactions.
+- 🛠️ Tech Stack: HTML, CSS, JavaScript
 
 ---
 
