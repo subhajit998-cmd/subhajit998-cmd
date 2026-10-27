@@ -66,7 +66,7 @@ A web-based calculator built with HTML, CSS, and JavaScript.
 ### 🖼️ My Image Gallery
 A web development project focused on displaying images in a gallery layout.
 
-🔗 [View Repository](https://github.com/subhajit998-cmd/My-Image-Gallery)
+🔗 [View Repository](https://subhajit998-cmd.github.io/My_Image_Gallery/)
 
 ### 🛡️ APKSentinel AI
 An AI-focused project exploring Android APK security.
