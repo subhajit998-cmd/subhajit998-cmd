@@ -1,18 +1,111 @@
-# 💫 About Me:
-- 🎓 B.Tech CSE-CS student at Haldia Institute of Technology.<br>- 💻 Aspiring Software Developer with an interest in Full-Stack Development.<br>- 🌱 Currently learning Java, Data Structures & Algorithms (DSA), and problem-solving.<br>- 🔐 Exploring Artificial Intelligence and Cybersecurity.<br>- 🚀 Building projects to gain practical development experience.<br>- 🎯 Preparing for software development internships and placements.<br>- 📚 Passionate about learning new technologies and improving my coding skills.
 
+<h1 align="center">Hi 👋, I'm Subhajit Show</h1>
+<h3 align="center">B.Tech CSE-CS Student | Aspiring Software Developer</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/subhajit-show-b367213a0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Dipshow67@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=subhajit998-cmd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=subhajit998-cmd&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=subhajit998-cmd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/subhajit998-cmd">
+    <img src="https://komarev.com/ghpvc/?username=subhajit998-cmd&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=subhajit998-cmd&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+🎓 B.Tech CSE-CS student at Haldia Institute of Technology.
+
+💻 Aspiring Software Developer passionate about building practical applications.
+
+🌱 Currently learning Java, Data Structures & Algorithms (DSA), and problem-solving.
+
+🌐 Interested in Full-Stack Development and modern web technologies.
+
+🔐 Exploring Artificial Intelligence and Cybersecurity.
+
+🚀 Building projects to strengthen my development skills and practical knowledge.
+
+🎯 Preparing for software development internships and campus placements.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/subhajit998-cmd">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/subhajit-show-b367213a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:Dipshow67@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mysql" alt="Programming Languages and Web Technologies" />
+</p>
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,bootstrap,nodejs,express,react,mongodb,firebase,aws" alt="Developer Tools and Technologies" />
+</p>
+
+## 🚀 Featured Projects
+
+### 🧮 Scientific Calculator
+A web-based calculator built with HTML, CSS, and JavaScript.
+
+🔗 [Live Demo](https://subhajit998-cmd.github.io/Scientific-Calculator/) · [Source Code](https://github.com/subhajit998-cmd/Scientific-Calculator)
+
+### 🖼️ My Image Gallery
+A web development project focused on displaying images in a gallery layout.
+
+🔗 [View Repository](https://github.com/subhajit998-cmd/My-Image-Gallery)
+
+### 🛡️ APKSentinel AI
+An AI-focused project exploring Android APK security.
+
+🔗 [View Repository](https://github.com/subhajit998-cmd/Sentinel-AI)
+
+### 🎵 MoodTune
+A music discovery project exploring music search and previews.
+
+### 👕 Style Hub
+A fashion e-commerce website concept focused on streetwear.
+
+> Add repository links for MoodTune and Style Hub once their repositories are ready to share.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=subhajit998-cmd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=subhajit998-cmd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhajit998-cmd&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- Strengthen Java and DSA fundamentals.
+- Solve coding problems consistently.
+- Build and document practical projects.
+- Improve full-stack development skills.
+- Prepare for technical interviews and internships.
+
+---
+
+<p align="center">
+  <i>"Consistency, curiosity, and code — one step closer every day."</i>
+</p>
