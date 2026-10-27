@@ -99,16 +99,26 @@ An AI-focused project exploring Android APK security.
 
 ---
 
-## 🎯 Current Goals
-
-- Strengthen Java and DSA fundamentals.
-- Solve coding problems consistently.
-- Build and document practical projects.
-- Improve full-stack development skills.
-- Prepare for technical interviews and internships.
 
 ---
 
 <p align="center">
-  <i>"Consistency, curiosity, and code — one step closer every day."</i>
+  💻 <b>Learning, Building, and Growing Every Day</b>
 </p>
+
+<p align="center">
+  Thanks for visiting my profile! 😊
+  <br/>
+  Feel free to explore my repositories and connect with me.
+</p>
+
+<p align="center">
+  <i>"Turning ideas into code, one project at a time."</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/subhajit998-cmd">
+    <img src="https://img.shields.io/badge/Follow%20Me-on%20GitHub-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" />
+  </a>
+</p>
+
